@@ -15,6 +15,7 @@ The repository contains solutions for a wide range of algorithmic mathematics pr
 4. Calculus and derivatives
 5. Geometry and trigonometry
 6. Probability and statistics
+
 Each problem solution is accompanied by detailed explanations, code snippets (where applicable), and relevant mathematical concepts and theories. The solutions are written in a way that encourages understanding and learning, making them accessible to individuals with varying levels of mathematical background.
 
 # Organization
