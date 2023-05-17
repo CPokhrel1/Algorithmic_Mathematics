@@ -24,11 +24,11 @@ The repository is organized into directories based on different topics or proble
 # Contributing
 Contributions to this repository are welcome! If you have a solution or an improvement to an existing solution, feel free to submit a pull request. Please ensure that your contributions adhere to the following guidelines:
 
-Solutions should be well-documented, providing clear explanations and any necessary mathematical background.
-Code snippets should be well-structured, readable, and accompanied by comments where appropriate.
-New problem solutions should be added to the relevant directory, or a new directory can be created if needed.
-If you're submitting a solution for an existing problem, please ensure that it improves upon the existing solution(s) or provides a different perspective.
-License
+1. Solutions should be well-documented, providing clear explanations and any necessary mathematical background.
+2. Code snippets should be well-structured, readable, and accompanied by comments where appropriate.
+3. New problem solutions should be added to the relevant directory, or a new directory can be created if needed.
+4. If you're submitting a solution for an existing problem, please ensure that it improves upon the existing solution(s) or provides a different perspective.
+# License
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the code and solutions within this repository for personal and educational purposes. However, please refer to the LICENSE file for more details regarding the usage and limitations.
 
 # Disclaimer
